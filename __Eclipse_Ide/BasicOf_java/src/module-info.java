@@ -1,0 +1,2 @@
+module BasicOf_java {
+}
